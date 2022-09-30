@@ -12,9 +12,9 @@
 
 :::{grid-item}
 :outline:
-:columns: 1
+:columns: 2
 <a href="https://www.linkedin.com/in/nileshkumariiita/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Ln" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="Ln" width="130" height="40">
 </a>
 :::
 
@@ -22,7 +22,7 @@
 :outline:
 :columns: 1
 <a href="https://scholar.google.com/citations?user=-O9gvy8AAAAJ&hl=en">
-<img src="https://img.icons8.com/ios/50/000000/google-scholar--v2.png" alt="GS" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="GS" width="40" height="40">
 </a>
 :::
 
@@ -30,7 +30,7 @@
 :outline:
 :columns: 1
 <a href="https://orcid.org/0000-0001-6095-7902">
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Orcid_icon.png" alt="GS" width="40" height="45">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="GS" width="40" height="45">
 </a>
 :::
 
