@@ -44,7 +44,7 @@
 
 ::::
 
-Highly analytical and skilled Bioinformatics Analyst with an extensive research history and meticulous attention to detail always ready to investigate complex problem. Research experience at international research institutes. Investigates and researches complex biological systems using Graph Theory and Deep Learning models. 
+Highly analytical and skilled Bioinformatics Analyst with an extensive research history and meticulous attention to detail always ready to investigate complex problems. Research experience at international research institutes. Studies complex biological systems using Graph Theory and Deep Learning models.
 
 
 ::::{grid}
