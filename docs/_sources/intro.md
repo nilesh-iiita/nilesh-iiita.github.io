@@ -12,9 +12,9 @@
 
 :::{grid-item}
 :outline:
-:columns: 2
+:columns: 3
 <a href="https://www.linkedin.com/in/nileshkumariiita/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="Ln" width="130" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="Ln" width="150" height="40">
 </a>
 :::
 
@@ -56,7 +56,7 @@ Python<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets
 :::
 
 :::{grid-item-card} OPERATING SYSTEM
-Linux <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Python" style="height: 25px; width:20px;"/> macOS <img src="https://static.wikia.nocookie.net/logopedia/images/7/71/MacOSMonterey.png/revision/latest?cb=20220318165600" alt="Python" style="height: 25px; width:30px;"/> Windows <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="Python" style="height: 20px; width:20px;"/>
+Linux <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Python" style="height: 25px; width:20px;"/> macOS <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/MacOS_logo.svg" alt="Python" style="height: 25px; width:30px;"/> Windows <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="Python" style="height: 20px; width:20px;"/>
 :::
 
 ::::
