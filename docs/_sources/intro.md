@@ -6,7 +6,7 @@
 :outline:
 :columns: 1
 <a href="https://www.researchgate.net/profile/Nilesh-Kumar-14?ev=hdr_xprf">
-<img src="https://pics.freeicons.io/uploads/icons/png/9191096581579517872-512.png" alt="RG" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="RG" width="40" height="40">
 </a>
 :::
 
@@ -31,6 +31,14 @@
 :columns: 1
 <a href="https://orcid.org/0000-0001-6095-7902">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Orcid_icon.png" alt="GS" width="40" height="45">
+</a>
+:::
+
+:::{grid-item}
+:outline:
+:columns: 1
+<a href="https://twitter.com/nilesh_uab">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="TW" width="40" height="40">
 </a>
 :::
 
